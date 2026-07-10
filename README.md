@@ -3,8 +3,7 @@
 ![Multisim](https://img.shields.io/badge/Multisim-NI-000000?logo=nationalinstruments&logoColor=white)
 ![Electrónica digital](https://img.shields.io/badge/electr%C3%B3nica-digital-blue)
 
-Circuitos digitales diseñados en **Multisim** para la asignatura de Fundamentos
-de Computadores, organizados por tipo de circuito.
+Circuitos digitales diseñados en **Multisim**, organizados por tipo de circuito.
 
 > ⚠️ Los ficheros `.ms14` son binarios de Multisim y requieren el programa para abrirse.
 
@@ -27,7 +26,7 @@ Contadores y registros, con sus versiones de práctica y examen.
 ## Nota sobre la organización
 
 La clasificación de los ficheros de práctica y examen (`.ms14`) se ha hecho
-según la numeración de prácticas de la asignatura (P3 sumadores, P4
+según la numeración de las prácticas de laboratorio (P3 sumadores, P4
 multiplexores, P5 decodificadores, P7 contadores, P8 registros).
 
 ## Autoría
