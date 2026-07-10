@@ -1,12 +1,11 @@
-# Fundamentos de Computadores — Multisim
+# Circuitos digitales en Multisim
 
-Circuitos digitales diseñados en **Multisim**: prácticas de la asignatura,
-circuitos combinacionales/secuenciales y ejercicios de examen resueltos.
+Circuitos combinacionales y secuenciales diseñados en **Multisim**.
 
 > Los ficheros `.ms14` requieren Multisim para abrirse.
 
 ## Contenido
-- **practicas** — prácticas 2 a 5.
+- **circuitos-de-las-practicas** — circuitos de las prácticas.
 - **circuitos** — transcodificadores, contadores, registros, multiplexores, sumador/restador, sistema de votación, conversor binario→BCD…
 - **examenes** — ejercicios de examen resueltos.
 
